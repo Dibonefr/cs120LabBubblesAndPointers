@@ -25,7 +25,12 @@ int main(){
  return(0);
 }// end main
  
-void printValues(int*){
- printf("%d", int*);
- return(0);
-} 
+void printValues(int* values){ 	
+ printf("%ls \n hi", values);
+}
+
+/*
+void swap(int* values){
+ int temp = 
+}	
+*/
